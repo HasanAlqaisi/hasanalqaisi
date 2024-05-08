@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
-<h3 align="center">A passionate backend & mobile developer from Iraq</h3>
+<h3 align="center">A passionate mobile & backend developer from Iraq</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanalqaisi&label=Profile%20views&color=0e75b6&style=flat" alt="hasanalqaisi" /> </p>
 
-- 🤝 My Instagram teaching channel [encodiq](https://www.instagram.com/encodiq/)
-
-- 💬 Ask me about **express.js, flutter**
+- 💬 Ask me about **flutter, express.js**
 
 - 📫 How to reach me **hasan.alqaisi2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hasan-alqaisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan-alqaisi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/encodiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="encodiq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@encodiq6488" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="encodiq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
